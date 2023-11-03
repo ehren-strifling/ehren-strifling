@@ -4,7 +4,7 @@
 ## About me
 I'm Ehren, a Software Developer student at MITT. And I am passionate about creating webpages and games from the ground up.
 
-I have experience programming in JavaScript, Java, C# and C++ but when making games, I prefer coding in JavaScript and C++ for their different things they have to offer. I want to learn assembly languages in the future so I can truely build a game from nothing.
+I have experience programming in JavaScript, Java, C# and C++ but when making games, I prefer coding in JavaScript and C++ for their different things they have to offer. I want to learn assembly languages in the future so that I can truely build a game from nothing.
 
 My website (work in progress): https://ehren-strifling.github.io/
 
