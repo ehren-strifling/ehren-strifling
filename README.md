@@ -1,5 +1,5 @@
-![](./assets/wizard-js-banner-compressed.mp4) <!-- I don't know why this doesn't work and it sucks -->
-![](./assets/banner.mp4)
+<!-- ![](./assets/wizard-js-banner-compressed.mp4) <!-- I don't know why this doesn't work and it sucks -->
+![](./assets/banner.jpg) <!-- I'm not going to waste all my time on a banner. All the good ones needed iStock. And the video I took just doesn't work... -->
 
 ## About me
 
