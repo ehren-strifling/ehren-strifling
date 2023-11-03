@@ -1,5 +1,5 @@
-<!-- ![](./assets/wizard-js-banner-compressed.mp4) I don't know why this doesn't work and it sucks -->
-
+![](./assets/wizard-js-banner-compressed.mp4) <!-- I don't know why this doesn't work and it sucks -->
+![](./assets/banner.mp4)
 
 ## About me
 
